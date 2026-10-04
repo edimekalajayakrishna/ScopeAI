@@ -35,7 +35,7 @@
 
 **ScopeAI** is an **agentic AI platform** that replaces weeks of manual startup and market research with autonomous AI agents that do the digging for you.
 
-> Traditional research is slow, scattered across spreadsheets, and surface-level. ProspectPilot deploys four specialized agents that pull from market data, competitor signals, funding databases, and startup metrics — then synthesize everything into a structured, decision-ready report in minutes.
+> Traditional research is slow, scattered across spreadsheets, and surface-level. ScopeAI deploys four specialized agents that pull from market data, competitor signals, funding databases, and startup metrics — then synthesize everything into a structured, decision-ready report in minutes.
 
 ### 🎯 The Problem
 
@@ -43,7 +43,7 @@ Founders, analysts, and investors waste days digging through scattered sources �
 
 ### 💡 The Solution
 
-ProspectPilot AI gives you **four autonomous agents on one platform**, each purpose-built for a distinct intelligence domain:
+ScopeAI gives you **four autonomous agents on one platform**, each purpose-built for a distinct intelligence domain:
 
 | Agent | What it answers |
 |:---|:---|
@@ -103,7 +103,7 @@ ProspectPilot AI gives you **four autonomous agents on one platform**, each purp
 ### 🤖 AI Agents Overview
 <img src="./ai-agents.png" width="800">
 
-### 💡 Why ProspectPilot
+### 💡 Why ScopeAI
 <img src="./why-us.png" width="800">
 
 ### 📣 Call to Action
@@ -180,7 +180,7 @@ M --> N[Reports Dashboard]
 ## 📁 Folder Structure
 
 ```bash
-ProspectPilotAI/
+ScopeAI/
 │
 ├── client/
 │   ├── src/
@@ -209,8 +209,8 @@ ProspectPilotAI/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ProspectPilotAI.git
-cd ProspectPilotAI
+git clone https://github.com/<your-username>/ScopeAI.git
+cd ScopeAI
 ```
 
 ### 2️⃣ Setup Frontend
